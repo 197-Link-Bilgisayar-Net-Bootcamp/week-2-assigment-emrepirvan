@@ -1,0 +1,15 @@
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\bin\Debug\net6.0\LinkW2.ConsoleApp.exe
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\bin\Debug\net6.0\LinkW2.ConsoleApp.deps.json
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\bin\Debug\net6.0\LinkW2.ConsoleApp.runtimeconfig.json
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\bin\Debug\net6.0\LinkW2.ConsoleApp.dll
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\bin\Debug\net6.0\LinkW2.ConsoleApp.pdb
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\LinkW2.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\LinkW2.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\LinkW2.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\LinkW2.ConsoleApp.AssemblyInfo.cs
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\LinkW2.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\LinkW2.ConsoleApp.dll
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\refint\LinkW2.ConsoleApp.dll
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\LinkW2.ConsoleApp.pdb
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\LinkW2.ConsoleApp.genruntimeconfig.cache
+C:\Users\emrep\Source\Repos\week-2-assigment-emrepirvan\LinkW2.ConsoleApp\obj\Debug\net6.0\ref\LinkW2.ConsoleApp.dll
